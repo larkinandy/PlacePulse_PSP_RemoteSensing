@@ -1,4 +1,4 @@
-### Data Preprocessing
+## Data Preprocessing
  Calculating built environment composition, downloading NDVI from the Google Earth Engine, and performing QA steps
 
  **files** <br>
