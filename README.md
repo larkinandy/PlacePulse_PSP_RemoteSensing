@@ -16,7 +16,7 @@ This is a comparison of different methodologies for measuring environmental comp
 Files are divided into three folders, with each folder corresponding to a unique stage of model development.
 
 - **[datasets](./datasets)** - derived built environment estimates, summary statistics, and GIS shapefiles for Place Pulse image locations
-- **[data preprocessing](./prepcrocessing)** - calculating built environment composition, downloading NDVI from the Google Earth Engine, and performing QA steps
+- **[data preprocessing](./preprocessing)** - calculating built environment composition, downloading NDVI from the Google Earth Engine, and performing QA steps
 - **[statistical analysis](./statistics)** - calculating summary statistics, creating regression models 
 
 **External Links**
