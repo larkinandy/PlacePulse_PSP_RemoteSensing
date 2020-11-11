@@ -8,4 +8,4 @@
 
 **External Links**
 - **Join Count Statistics** - https://www.youtube.com/watch?v=BdsdYEbUkj4
-- **Green Screen Repository** - https://github.com/larkinandy/GSV_NDVI_Comparison
+- **Green Screen Github Repo** - https://github.com/larkinandy/GSV_NDVI_Comparison
