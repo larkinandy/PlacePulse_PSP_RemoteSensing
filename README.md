@@ -13,9 +13,8 @@ This is a comparison of different methodologies for measuring environmental comp
 - **Green nature** - [percent green in an image](https://github.com/larkinandy/GSV_NDVI_Comparison) directly attributable to nature
 
 **Repository Structure** <br>
-Files are divided into three folders, with each folder corresponding to a unique stage of model development.
+Files are divided into two folders, with each folder corresponding to a unique stage of model development.  Datasets are too large to upload to the github repository, but are available at (insert link here)
 
-- **[datasets](./datasets)** - derived built environment estimates, summary statistics, and GIS shapefiles for Place Pulse image locations
 - **[data preprocessing](./preprocessing)** - calculating built environment composition, downloading NDVI from the Google Earth Engine, and performing QA steps
 - **[statistical analysis](./statistics)** - calculating summary statistics, creating regression models 
 
